@@ -1,2 +1,2 @@
 # google.com
-[[(google.com)]](url)
+[google.com](google.com)
