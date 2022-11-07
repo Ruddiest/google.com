@@ -1,4 +1,5 @@
-[Reddit.com](reddit.com)
+
+[Reddit](https://www.reddit.com)
 
 [discord.com](discord.com)
 
